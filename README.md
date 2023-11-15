@@ -1,6 +1,6 @@
 ## Hi! I'm Muhammad Usman, a Full Stack Developer.
 <div align="center">
-   
+   ![Image of me](https://github.com/MuhammadUsman-DevOps/MuhammadUsman-DevOps/blob/master/me.gif?raw=true)
    [![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadUsman-DevOps&theme=dark)](https://git.io/streak-stats)
    
    
